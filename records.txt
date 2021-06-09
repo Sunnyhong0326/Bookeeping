@@ -1,0 +1,9 @@
+63770
+2021-05-19 transportation bus -10
+2021-06-08 income salary 80000
+2021-06-08 drink trudan -50
+2021-05-28 snack potatochip -20
+2021-06-13 food breakfast -50
+2021-06-13 expense switch -8000
+2021-06-13 expense switch -8000
+2021-06-12 meal food -100
